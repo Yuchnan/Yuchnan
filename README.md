@@ -11,7 +11,13 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/ramandhanu-yuchnan-utomo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/USERNAME_ANDA" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://WEBSITE_PRIBADI_ANDA.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
@@ -47,15 +53,14 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Yuchnan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true" alt="readme stats" />
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Yuchnan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true" alt="readme stats" />
       </td>
-      <td>
-        <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Yuchnan&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Yuchnan&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Yuchnan&count_private=true&theme=react&border_radius=10&hide_border=true" alt="streak stats"/>
 </div>
 
 <br/>
