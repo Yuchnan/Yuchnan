@@ -13,10 +13,10 @@
   <a href="https://www.linkedin.com/in/ramandhanu-yuchnan-utomo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/USERNAME_ANDA" target="_blank">
+  <a href="https://www.instagram.com/r.yuchnan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://WEBSITE_PRIBADI_ANDA.com" target="_blank">
+  <a href="https://ryuchnan.space" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
